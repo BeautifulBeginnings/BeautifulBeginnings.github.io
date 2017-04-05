@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact_us.html",
     "name": "Beautiful Beginnings",
     "theme": {
       "name": "mobirise3",
@@ -533,7 +533,7 @@
           "title": "Say Hello!",
           "subtitle": "",
           "form": {
-            "action": "Nicole.BeautifulBeginning@gmail.com",
+            "action": "Nicole.BeautifulBeginnings@gmail.com",
             "alerts": {
               "success": "Thank you for filling out the form!  We will reply as soon as we can!  Have a beautiful Day!"
             },
