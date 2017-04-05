@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "pricing.html",
     "name": "Beautiful Beginnings",
     "theme": {
       "name": "mobirise3",
@@ -255,14 +255,14 @@
           "text2": "",
           "form": {
             "title": "MESSAGE",
-            "action": "ssnyder1111@gmail.com",
+            "action": "nicole.beautifulbeginnings@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for filling out the form!  We will reply as soon as we can!  Have a beautiful Day!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -272,16 +272,16 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
+                "visible": true,
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Please tell us a bit about your child!"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -506,14 +506,14 @@
           "text2": "",
           "form": {
             "title": "MESSAGE",
-            "action": "ssnyder1111@gmail.com",
+            "action": "nicole.beautifulbeginnings@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for filling out the form!  We will reply as soon as we can!  Have a beautiful Day!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -523,16 +523,16 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
+                "visible": true,
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Please tell us a bit about your child!"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -598,26 +598,6 @@
               "color": "#232323"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-4",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         },
         {
           "_inherit": "menu",
