@@ -758,14 +758,14 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "count": "2",
             "showImages": true,
             "showName": true,
             "showBio": true
           },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "title": "OUR FANTASTIC STAFF",
+          "subtitle": ""
         }
       ]
     }
