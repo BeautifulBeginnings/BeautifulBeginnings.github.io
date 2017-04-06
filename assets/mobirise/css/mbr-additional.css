@@ -442,6 +442,10 @@ h6,
 #header2-2 .mbr-section-text {
   text-align: center;
 }
+#social-buttons3-n .mbr-section-title,
+#social-buttons3-n .btn-social {
+  color: #fff;
+}
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -538,6 +542,10 @@ h6,
 }
 #pricing-table2-8 .mbr-section__container .mbr-section-title {
   color: #ffffff;
+}
+#social-buttons3-o .mbr-section-title,
+#social-buttons3-o .btn-social {
+  color: #fff;
 }
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -724,4 +732,8 @@ h6,
 #ext_menu-l .link[aria-expanded="true"],
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
   color: #41a85f!important;
+}
+#social-buttons3-p .mbr-section-title,
+#social-buttons3-p .btn-social {
+  color: #fff;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "staff.html",
+    "currentPage": "index.html",
     "name": "Beautiful Beginnings",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -142,8 +142,39 @@
             }
           },
           "title": "A day care that also cares for you.",
-          "text": "Beautiful Beginnings was created by parents for parents. &nbsp; We offer affordable &nbsp;and safe child care services that are fun and engaging for your child!",
+          "text": "Beautiful Beginnings was created by parents for parents. &nbsp; We offer affordable &nbsp;and safe childcare services that are fun and engaging for your child!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"pricing.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
@@ -284,7 +315,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beautiful Beginnings</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact_us.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -397,6 +428,37 @@
           "button4": "<a data-app-btn=\"true\" href=\"contact_us.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> "
         },
         {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -535,7 +597,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beautiful Beginnings</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact_us.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -691,7 +753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beautiful Beginnings</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact_us.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -790,7 +852,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beautiful Beginnings</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"pricing.html\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"staff.html\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Staff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact_us.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -799,7 +861,7 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>-15 Years of experience in child care</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
+              "text": "<p>-15 Years of experience in childcare</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/rose-profile-88x160.jpg",
@@ -817,7 +879,7 @@
               "authorBio": "Teacher"
             },
             {
-              "text": "<p>-5 Years in experience in child care</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
+              "text": "<p>-10+ Years of experience in childcare</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/nicole-profile-160x160.jpg",
@@ -856,6 +918,37 @@
           },
           "title": "OUR FANTASTIC STAFF",
           "subtitle": ""
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
