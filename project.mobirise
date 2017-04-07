@@ -450,7 +450,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13281.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -781,7 +781,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13281.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -904,24 +904,6 @@
               "text": "<p>-15 Years of experience in childcare</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/rose-profile-88x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Rose Ayala",
-              "authorBio": "Teacher"
-            },
-            {
-              "text": "<p>-10+ Years of experience in childcare</p><p>-Languages: Italian, Spanish, English</p><p>-CPR Certified</p><p><br></p>",
-              "media": {
-                "image": {
                   "src": "@PROJECT_PATH@/assets/images/nicole-profile-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
@@ -941,7 +923,7 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "count": "2",
+            "count": "1",
             "showImages": true,
             "showName": true,
             "showBio": true,
@@ -979,7 +961,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13281.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
